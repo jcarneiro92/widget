@@ -1,14 +1,13 @@
 {
-  "name": "draw",
-  "type": "extension",
+  "name": "drawWidget",
+  "type": "widget",
   "version": "1.4.0",
   "exbVersion": "1.4.0",
   "author": "Robert Scheitlin",
   "description": "Widget used for drawing on the map",
   "copyright": "2021",
   "license": "http://www.apache.org/licenses/LICENSE-2.0",
-  "properties": {
-  },
+  "properties": {},
   "translatedLocales": [
     "en"
   ],
