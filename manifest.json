@@ -1,7 +1,7 @@
 {
   "name": "drawWidget",
   "type": "widget",
-  "entry": "https://67f8fa0c016e0614eece5c7f--earnest-eclair-bd8444.netlify.app/runtime/widget.js",
+  "entry": "dist/runtime/widget.js",
   "version": "1.4.0",
   "exbVersion": "1.4.0",
   "author": "Robert Scheitlin",
