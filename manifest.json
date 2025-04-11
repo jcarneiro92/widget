@@ -1,6 +1,6 @@
 {
   "name": "draw",
-  "type": "widget",
+  "type": "extension",
   "version": "1.4.0",
   "exbVersion": "1.4.0",
   "author": "Robert Scheitlin",
